@@ -12,15 +12,15 @@ namespace DataAccessLayer
     {
         public static string  x_or_o()
         {
-            DatabaseTableAdapters adapater = new DatabaseTableAdapters();
+            //DatabaseTableAdapters adapater = new DatabaseTableAdapters();
             return "X";
         }
 
-        public static bool setTeam()
+        public static char setTeam()
         {
-            MatchTableAdapter adapter = new MatchTableAdapter();
-            Database.MatchRow player1 = new Database.MatchRow();
-
+            //MatchTableAdapter adapter = new MatchTableAdapter();
+            //Database.MatchRow player1 = new Database.MatchRow();
+            return 'X';
         }
     }
 }

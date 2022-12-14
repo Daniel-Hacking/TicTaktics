@@ -5,3 +5,10 @@ C:\Users\danie\OneDrive\Projects\TicTacToe\TicTaktics\DataAccessLayer\obj\Debug\
 C:\Users\danie\OneDrive\Projects\TicTacToe\TicTaktics\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\danie\OneDrive\Projects\TicTacToe\TicTaktics\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\danie\OneDrive\Projects\TicTacToe\TicTaktics\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\danie\OneDrive\Projects\TicTaktics\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Projects\TicTaktics\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Projects\TicTaktics\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\danie\OneDrive\Projects\TicTaktics\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\danie\OneDrive\Projects\TicTaktics\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\danie\OneDrive\Projects\TicTaktics\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\danie\OneDrive\Projects\TicTaktics\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
